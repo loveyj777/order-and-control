@@ -1,0 +1,109 @@
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\bin\Debug\FoodControlManager.exe.config
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\bin\Debug\FoodControlManager.exe
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\bin\Debug\FoodControlManager.pdb
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\bin\Debug\SunnyUI.dll
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\bin\Debug\SunnyUI.Common.dll
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.Form1.resources
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.Properties.Resources.resources
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.csproj.CopyComplete
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.exe
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.pdb
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.firstfrm.resources
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.login.resources
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.foodsadd.resources
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.foodscontrol.resources
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\MyCj2.Cj2.resources
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.ordercontrol.resources
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.table.resources
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.showfood.resources
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.history.resources
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.usercontrol.resources
+D:\FoodControlManager\FoodControlManager\bin\Debug\FoodControlManager.exe.config
+D:\FoodControlManager\FoodControlManager\bin\Debug\FoodControlManager.exe
+D:\FoodControlManager\FoodControlManager\bin\Debug\FoodControlManager.pdb
+D:\FoodControlManager\FoodControlManager\bin\Debug\SunnyUI.Common.dll
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.csprojAssemblyReference.cache
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.firstfrm.resources
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.foodsadd.resources
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.foodscontrol.resources
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.Form1.resources
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.history.resources
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.login.resources
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.ordercontrol.resources
+D:\FoodControlManager\FoodControlManager\obj\Debug\MyCj2.Cj2.resources
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.Properties.Resources.resources
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.sellcount.resources
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.showfood.resources
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.table.resources
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.usercontrol.resources
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.csproj.GenerateResource.cache
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.csproj.CoreCompileInputs.cache
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.csproj.CopyComplete
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.exe
+D:\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.pdb
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\bin\Debug\SunnyUI.pdb
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.sellcount.resources
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.deleteuser.resources
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.cbx.resources
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.updatevipinfo.resources
+C:\Users\asus\Desktop\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.vipupdate.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\bin\Debug\FoodControlManager.exe.config
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\bin\Debug\FoodControlManager.exe
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\bin\Debug\FoodControlManager.pdb
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\bin\Debug\SunnyUI.Common.dll
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\bin\Debug\SunnyUI.pdb
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.cbx.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.deleteuser.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.firstfrm.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.foodsadd.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.foodscontrol.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.Form1.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.history.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.login.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.ordercontrol.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\MyCj2.Cj2.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.Properties.Resources.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.sellcount.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.showfood.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.table.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.updatevipinfo.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.usercontrol.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.vipupdate.resources
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.csproj.CopyComplete
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.exe
+C:\Users\asus\Desktop\新建文件夹\FoodControlManager\FoodControlManager\obj\Debug\FoodControlManager.pdb
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\bin\Debug\FoodControlManager.exe.config
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\bin\Debug\FoodControlManager.exe
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\bin\Debug\FoodControlManager.pdb
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\bin\Debug\SunnyUI.Common.dll
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\bin\Debug\SunnyUI.pdb
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.cbx.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.combox.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.deleteuser.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.firstfrm.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.foodsadd.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.foodscontrol.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.Form1.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.history.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.login.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.ordercontrol.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\MyCj2.Cj2.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.Properties.Resources.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.sellcount.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.showfood.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.table.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.updatevipinfo.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.usercontrol.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.vipupdate.resources
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.csproj.CopyComplete
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.exe
+C:\Users\asus\Desktop\pictures & project  LOVEYJ 欧阳宇杰\管理端\FoodControlManager\obj\Debug\FoodControlManager.pdb

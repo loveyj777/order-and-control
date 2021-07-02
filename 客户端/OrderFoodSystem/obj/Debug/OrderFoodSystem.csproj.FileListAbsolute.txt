@@ -1,0 +1,148 @@
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\bin\Debug\OrderFoodSystem.exe.config
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\bin\Debug\OrderFoodSystem.exe
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\bin\Debug\OrderFoodSystem.pdb
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.Mainform.resources
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.Properties.Resources.resources
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.csproj.CopyComplete
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.exe
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.pdb
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\bin\Debug\CSkin.dll
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\bin\Debug\CSkin.xml
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.loadingform.resources
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\bin\Debug\MyCj.dll
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\bin\Debug\MyCj.pdb
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.Foods.resources
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.indexform.resources
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.shopcar.resources
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.orderfoods.resources
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\bin\Debug\MyCj2.dll
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\bin\Debug\MyCj2.pdb
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.closeorder.resources
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.payform.resources
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.viplogin.resources
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.alipay.resources
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.wechat.resources
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.chosetable.resources
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\bin\Debug\SunnyUI.dll
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\bin\Debug\SunnyUI.Common.dll
+C:\Users\asus\Desktop\OrderFoodSystem\OrderFoodSystem\bin\Debug\SunnyUI.pdb
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\bin\Debug\OrderFoodSystem.exe.config
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\bin\Debug\OrderFoodSystem.exe
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\bin\Debug\OrderFoodSystem.pdb
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\bin\Debug\SunnyUI.Common.dll
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\bin\Debug\CSkin.xml
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\bin\Debug\MyCj.pdb
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\bin\Debug\MyCj2.pdb
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\bin\Debug\SunnyUI.pdb
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.alipay.resources
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.chosetable.resources
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.closeorder.resources
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.Foods.resources
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.indexform.resources
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.loadingform.resources
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.Mainform.resources
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.orderfoods.resources
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.payform.resources
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.Properties.Resources.resources
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.shopcar.resources
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.viplogin.resources
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.wechat.resources
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.csproj.CopyComplete
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.exe
+C:\Users\asus\Desktop\WeGame ReEdit by OYYJ\OrderFoodSystem\OrderFoodSystem\obj\Debug\OrderFoodSystem.pdb
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\bin\Debug\OrderFoodSystem.exe.config
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\bin\Debug\OrderFoodSystem.exe
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\bin\Debug\OrderFoodSystem.pdb
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\bin\Debug\SunnyUI.Common.dll
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\bin\Debug\CSkin.xml
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\bin\Debug\MyCj.pdb
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\bin\Debug\MyCj2.pdb
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\bin\Debug\SunnyUI.pdb
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.alipay.resources
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.chosetable.resources
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.closeorder.resources
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.Foods.resources
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.indexform.resources
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.loadingform.resources
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.Mainform.resources
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.orderfoods.resources
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.payform.resources
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.Properties.Resources.resources
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.shopcar.resources
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.viplogin.resources
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.wechat.resources
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.csproj.CopyComplete
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.exe
+C:\Users\asus\Desktop\新建文件夹\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.pdb
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\bin\Debug\OrderFoodSystem.exe.config
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\bin\Debug\OrderFoodSystem.exe
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\bin\Debug\OrderFoodSystem.pdb
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\bin\Debug\CSkin.dll
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\bin\Debug\MyCj.dll
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\bin\Debug\MyCj2.dll
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\bin\Debug\SunnyUI.dll
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\bin\Debug\SunnyUI.Common.dll
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\bin\Debug\CSkin.xml
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\bin\Debug\MyCj.pdb
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\bin\Debug\MyCj2.pdb
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\bin\Debug\SunnyUI.pdb
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.alipay.resources
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.chosetable.resources
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.closeorder.resources
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.Foods.resources
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.indexform.resources
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.loadingform.resources
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.Mainform.resources
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.orderfoods.resources
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.payform.resources
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.Properties.Resources.resources
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.shopcar.resources
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.viplogin.resources
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.wechat.resources
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.csproj.CopyComplete
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.exe
+C:\Users\asus\Desktop\客户端1\OrderFoodSystem\obj\Debug\OrderFoodSystem.pdb
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\bin\Debug\OrderFoodSystem.exe.config
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\bin\Debug\OrderFoodSystem.exe
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\bin\Debug\OrderFoodSystem.pdb
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\bin\Debug\SunnyUI.Common.dll
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\bin\Debug\CSkin.xml
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\bin\Debug\MyCj.pdb
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\bin\Debug\MyCj2.pdb
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\bin\Debug\SunnyUI.pdb
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.alipay.resources
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.chosetable.resources
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.closeorder.resources
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.Foods.resources
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.indexform.resources
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.loadingform.resources
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.Mainform.resources
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.orderfoods.resources
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.payform.resources
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.Properties.Resources.resources
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.shopcar.resources
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.viplogin.resources
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.wechat.resources
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.csproj.CopyComplete
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.exe
+C:\Users\asus\Desktop\新建文件夹\客户端2\OrderFoodSystem\obj\Debug\OrderFoodSystem.pdb
